@@ -100,3 +100,27 @@ h1,h2, h3, h4, h5, h6{
 .footer-content{
   padding: 15px; 
 }
+
+footer {
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #ec3b50;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+footer div {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+footer u{
+  color: white;
+}
