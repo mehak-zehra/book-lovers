@@ -58,9 +58,16 @@ THEN I'm redirected to the book details page
 
 ## Screenshots
 
-![](/assets/images/website_screenshot_1.png)
-![](/assets/images/website_screenshot_1.png)
-![](/assets/images/website_screenshot_1.png)
+### Homepage
+![](/assets/images/screenshots/screenshot-1.png)
+### List Page
+![](/assets/images/screenshots/screenshot-2.png)
+### Detailed Page
+![](/assets/images/screenshots/screenshot-3.png)
+### Detailed Page when bookmarked icon is clicked
+![](/assets/images/screenshots/screenshot-5.png)
+### Favorite book section
+![](/assets/images/screenshots/screenshot-6.png)
 
 
 ## Future Enhancements 
